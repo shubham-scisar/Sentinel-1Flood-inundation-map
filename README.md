@@ -12,4 +12,5 @@ Python 3(3.5),GDAL(2.2.4),Numpy(1.12.1),matplotlib(2.2.2),scikit-image(0.13.0),s
 
 
 # More about the Author
+
 Video link of my talk at PyCon India 2018,Hyderabad : https://www.youtube.com/watch?v=Yon0aJ4GBFA
